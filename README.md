@@ -1,4 +1,4 @@
-# Identifying-Singer-from-Audio-Data-
+# Identifying-Singer-from-Audio-Data
 The aim of this project was to predict the singer based on their audio sample. We trained a CNN based model on the spectrogram images to achieve this objective.
 
 Code: https://colab.research.google.com/drive/1fHeDOE2gvtkidBprX4iuA5JcKJISh2kc?usp=sharing
